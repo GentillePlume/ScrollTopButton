@@ -6,10 +6,12 @@ Demo : *coming soon*
 *coming soon*
 
 # Installation
-*coming soon*
+Add the script just before the body close tag
+```html
+<script src="TTP.js"></script>
+```
 
-# Initialization
-*coming soon*
+And it's done, you have your top button. Customization coming soon.
 
 # Customization
 *coming soon*
