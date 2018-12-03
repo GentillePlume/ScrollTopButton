@@ -38,7 +38,7 @@ Launch the library with parameters
 
 # Parameters
 box shape | icon & box color format | icon | animation (icon & box)
------------- | ------------- | -------------
+------------ | ------------- | ------------- | -------------
 Square | **#A9347E** *(hexadecimal)* | select icon class on **[fontawesome](https://fontawesome.com/icons?d=gallery)** | select animation class on **[animate.css](https://daneden.github.io/animate.css/)**
 Circle | **rgb(169, 52, 126)** *(RGB)*
 Triangle | **rgba(169, 52, 126, .75)** *(RGBA)*
