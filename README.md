@@ -37,12 +37,17 @@ Launch the library with parameters
 ```
 
 # Parameters
-box shape | icon & box color format | icon | animation (icon & box)
------------- | ------------- | ------------- | -------------
-Square | **#A9347E** *(hexadecimal)* | select icon class on **[fontawesome](https://fontawesome.com/icons?d=gallery)** | select animation class on **[animate.css](https://daneden.github.io/animate.css/)**
+box shape | icon & box color format
+------------ | ------------- | -------------
+Square | **#A9347E** *(hexadecimal)*
 Circle | **rgb(169, 52, 126)** *(RGB)*
 Triangle | **rgba(169, 52, 126, .75)** *(RGBA)*
 | **black** *(color name)*
-And it's done, you have your top button. Customization coming soon.
+
+icon & box animations | icons |
+------------ | ------------- | -------------
+select animation class on **[animate.css](https://daneden.github.io/animate.css/)** | select icon class on **[fontawesome](https://fontawesome.com/icons?d=gallery)**
+
+
 
 # Templates *(coming soon)*
