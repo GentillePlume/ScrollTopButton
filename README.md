@@ -42,7 +42,7 @@ box shape | icon & box color format
 Square | **#A9347E** *(hexadecimal)*
 Circle | **rgb(169, 52, 126)** *(RGB)*
 Triangle | **rgba(169, 52, 126, .75)** *(RGBA)*
-| **black** *(color name)*
+ | **black** *(color name)*
 
 icon & box animations | icons
 ------------ | -------------
